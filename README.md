@@ -1,2 +1,7 @@
 # Hello-World-In-Keras
-## References and data set from https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview
+## Instructions
+### Build a keras hello world CNN:
+#### -Construct CNN of few Conv and pool ,FC(dense), softmax 
+#### - plot learning curve ( epoch on xAxis , train/CV error on yAxis)
+#### - Train on MNIST (or Fashion MNIST) 
+#### - report your learning and accuracy (  should exceed 90%) 
